@@ -15,6 +15,7 @@
   padding: 6px 14px;
   margin: 0px 20px;
   text-align: center;
+  border-bottom: 1px solid darkgray;
 }
 
 .phonebook-item.completed .data {
@@ -27,8 +28,8 @@
 
 .phonebook-item-content {
     flex-grow: 1;
-    color    : #7b7b7b;
-    max-width: 25%;
+    color    : black;
+    max-width: 33%;
 }
 
 .phonebook-top {
@@ -50,6 +51,7 @@
 
 .phonebook-item-top .name {
     font-size: 16px;
+    width: 20%;
 }
 
 .phonebook-item-top .number {
@@ -73,5 +75,5 @@
 
 .delete-btn:hover {
   cursor: pointer;
-    background-image: url(../../icon-delete.png);
+  background-image: url(../../icon-delete.png);
 }

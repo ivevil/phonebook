@@ -30,7 +30,8 @@ input:hover {
     padding-right: 14px;
     font-weight  : bold;
     cursor       : pointer;
-    color        : grey;
+    color        : black;
+    text-transform: uppercase;
     background: pink;
     border-radius: 25px;
     padding: 6px 20px;
