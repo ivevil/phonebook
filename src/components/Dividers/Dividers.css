@@ -1,0 +1,23 @@
+.dividers {
+  position: absolute;
+  top: 0;
+  right: -25px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.divider {
+  padding: 7px;
+  background: lightblue;
+  border: 1px solid white;
+}
+
+.divider:hover {
+  background: lightpink;
+  cursor: pointer;
+}
+.divider.active{
+  background: pink;
+}

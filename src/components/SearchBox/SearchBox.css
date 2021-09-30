@@ -1,0 +1,11 @@
+.search-box-container {
+  background: #f9f9f9;
+}
+.search-box {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+  background: #f9f9f9;
+}
