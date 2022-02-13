@@ -1,17 +1,38 @@
-# Getting Started with Phonebook App
+## Phonebook app
 
-This app is created from scratch and developed just for needs of client. If you need to start the project just follow the steps below.
+#### Description:
 
-## Available Scripts
+Phonebook App
 
-In the project directory, you can run:
+This app is created from scratch and developed just for needs of client. If you need to start the project just follow the steps below. The app is built with React, JavaScript, and CSS.
 
-### `yarn start` || `npm start`
+## Project Status
+Done
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Project Screen Shot(s)
 
-### `yarn build` || `npm build`
+#### Main:   
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![ScreenShot](https://raw.github.com/ivevil/phonebook/master/screenshot.png)
+
+## Installation and Setup Instructions
+
+#### Steps to follow:  
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  or  `npm ci` - depend what you prefer
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`https://localhost:3000/`  
